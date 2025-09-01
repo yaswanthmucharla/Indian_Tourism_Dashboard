@@ -43,4 +43,7 @@ This dashboard answers the question by presenting insights into:
 * Analyze **tourism interest categories** driving revenue
 * Enable **data-backed tourism planning** for policymakers and businesses
 
+Excel_data_link : https://github.com/yaswanthmucharla/Indian_Tourism_Dashboard/blob/main/India_Tourism_2015_2024.xlsx
+
+
 
